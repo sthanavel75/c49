@@ -1,0 +1,37 @@
+h1 {
+    color: brown;
+    margin: 100px;
+}
+
+ 
+
+
+h2{
+
+color: silver;
+
+}
+.header{
+background-color: chocolate;
+display:flex;
+justify-content: left;
+padding-left: 30px;
+}
+.home{
+background-color:cyan;
+}
+.about{
+    background-color: darkblue;
+}
+.events{
+
+    background-color: forestgreen;
+}
+.experience{
+
+    background-color: yellow;
+   
+}
+a:link{
+    color: gold;
+}
